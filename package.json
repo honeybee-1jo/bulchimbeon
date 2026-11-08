@@ -1,0 +1,10 @@
+{
+  "name": "bulchimbeon-online",
+  "version": "1.0.0",
+  "description": "불침번 온라인 (방 4개 × 8명)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true
+}
